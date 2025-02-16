@@ -1,5 +1,6 @@
 import photo from "../assets/face-photo.png";
 import Message from "./Message";
+import "../App.css";
 
 function Body() {
   return (

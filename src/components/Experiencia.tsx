@@ -1,3 +1,5 @@
+import '../App.css';
+
 function Experiencia() {
     return (
       <section className="container mt-5">
@@ -5,7 +7,7 @@ function Experiencia() {
         <div className="row">
   
           <div className="col-lg-4 col-md-6 col-12 p-3">
-            <div className="p-4 bg-light shadow rounded text-center">
+            <div className="p-4 bg-light shadow rounded text-center transform-hover">
               <h3 className="text-dark mb-3">Development Environments</h3>
               <ul className="list-unstyled">
                 <li className="mb-2 fs-5 text-muted">Pycharm</li>
@@ -17,7 +19,7 @@ function Experiencia() {
           </div>
   
           <div className="col-lg-4 col-md-6 col-12 p-3">
-            <div className="p-4 bg-light shadow rounded text-center">
+            <div className="p-4 bg-light shadow rounded text-center transform-hover">
               <h3 className="text-dark mb-3">Programming Languages</h3>
               <ul className="list-unstyled">
                 <li className="mb-2 fs-5 text-muted">Python</li>
@@ -29,7 +31,7 @@ function Experiencia() {
           </div>
   
           <div className="col-lg-4 col-md-6 col-12 p-3">
-            <div className="p-4 bg-light shadow rounded text-center">
+            <div className="p-4 bg-light shadow rounded text-center transform-hover">
               <h3 className="text-dark mb-3">Frameworks</h3>
               <ul className="list-unstyled">
                 <li className="mb-2 fs-5 text-muted">Django</li>
