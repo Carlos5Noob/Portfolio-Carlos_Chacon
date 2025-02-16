@@ -1,15 +1,3 @@
 # PortfolioBootstrap-CarlosChacon
 
-## Requisitos para ejecutar el proyecto
-
-1. Descargar las dependencias
-
-```bash
-    npm install
-```
-
-2. Ejecutar en el servidor
-
-```bash
-    npm run dev
-```
+¡Bienvenido a mi portfolio personal, donde descubrirás un poquito mejor quién soy y mi experiencia como desarrollador!
