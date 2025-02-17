@@ -1,3 +1,5 @@
+/* estilos para algunos elementos con la clase transform-hover y para las imágenes. Lo que hace es que al pasar el ratón por encima se escalan un poco más grandes */
+
 .transform-hover {
     transition: transform 0.3s ease; 
   }

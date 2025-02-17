@@ -1,7 +1,7 @@
 import '../App.css';
 
 function Experiencia() {
-    return (
+    return ( //añado clases para poner el section como un container. Añado margen arriba al contenedor, además de que los div del contenedor lo divida en 3 columnas. Ademas, le doy estilo para que sea responsive
       <section className="container mt-5">
         <h1 className="text-center mb-4 text-dark">Experience</h1>
         <div className="row">

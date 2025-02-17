@@ -3,7 +3,7 @@ import x from "../assets/X_logo.png";
 import github from "../assets/github_logo.png";
 
 function Header() {
-  return (
+  return ( // añado clases para que el header tenga display tipo flex, para manejar menor el contenedor. Los items del header los divido en dos columnas. Ademas, le doy estilo para que sea responsive
     <header className="text-bg-dark p-4 d-flex flex-column flex-md-row justify-content-between align-items-center text-center">
       <h3 className="mb-3 mb-md-0">Carlos Chacón Atienza</h3>
       <div className="d-flex flex-column flex-sm-row gap-3">
@@ -27,7 +27,7 @@ function Header() {
         </a>
       </div>
     </header>
-  );
+  ); // a los div del contenedor header los pongo como flex y los alineo al centro del container, además de que van separados mediante el gap
 }
 
 export default Header;
