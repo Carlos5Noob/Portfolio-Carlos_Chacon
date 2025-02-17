@@ -13,3 +13,7 @@ Cabe destacar que para lograr el diseño del portfolio además de utilizar la li
 Además, cada componente de la web está documentado sobre el uso de las clases que he utilizado de bootstrap.
 
 Lo último y no por ello menos importante, he creado mi portfolio no con la finalidad de una tarea más de la asignatura, sino para crear mi propio portfolio personal profesional, es por ello por lo que puede que esté un poco excaso de información. A medida que vaya ampliando mi trayectoria, podré utilizar este portfolio como base para ampliarlo más.
+
+## Link para ver el portfolio en GitHub Pages
+
+[Vista mi portfolio aquí](https://Carlos5Noob.github.io/Portfolio-Carlos_Chacon)
